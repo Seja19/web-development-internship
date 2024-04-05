@@ -1,0 +1,52 @@
+html{
+    background-color: lightgray;
+    border: 10px solid purple;
+    
+}
+h1{
+    text-align:center;
+    text-decoration: double;
+    color: purple;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+.Intro{
+    margin:50px;
+}
+#teambox1{
+    border:1px solid black;
+    margin-left: 500px;
+    margin-top:20px;
+    width:250px;
+
+    background-color: rgb(229, 162, 229);
+}
+#teambox2{
+    border:1px solid black;
+    margin-left: 500px;
+    margin-top:20px;
+    width:250px;
+
+    background-color: rgb(229, 162, 229);
+}
+.team-box{
+    display: flexbox;
+}
+    
+
+.img{
+    width: 100px;
+    height:100px;
+    border-radius: 50px;
+}
+.team-member{
+    padding-left: 90px;
+    padding-right: 90px;
+    display: inline-block;
+}
+#designation{
+    text-align: center;
+
+}
